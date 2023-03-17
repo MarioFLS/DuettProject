@@ -5,7 +5,7 @@ Esse Projeto foi feito para um processo seletivo!
 
 ## Tecnologias Usadas
 
-> Desenvolvida utilizando: C#, .Net, Entity Framework Core, Docker, Docker-Compose, SQLServer, xUnity. Utilizando o Modelo MVC
+> Desenvolvida utilizando: C#, .Net, Entity Framework Core, Docker, Docker-Compose, SQLServer. Utilizando .Net e React
 
 # Como Utilizar
 
